@@ -1,0 +1,24 @@
+* {
+    font-family: "Poppins";
+}
+
+.header {
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    display: flex;
+}
+
+.navbar {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
